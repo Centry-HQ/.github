@@ -1,6 +1,6 @@
-# 🛡️ Centry – Ghana's Crowdsourced Fraud Detection Platform
+# 🛡️ Centry – Ghana's 1st Crowdsourced Fraud Detection Platform
 
-**Centry** is an advanced, citizen-powered fraud detection and reporting platform built to safeguard mobile money transactions across Ghana. By combining community reports, real-time alerts, and AI-powered behavioral analytics, Centry empowers both the public and security agencies to combat mobile money fraud at scale.
+**Centry** is an advanced, crowdsourced fraud detection and reporting platform built to safeguard mobile money transactions across Ghana. By combining community reports, real-time alerts, and AI-powered behavioral analytics, Centry empowers both the public and security agencies to combat mobile money fraud at scale.
 
 ---
 
