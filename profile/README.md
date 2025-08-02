@@ -50,19 +50,6 @@ Centry is actively under development. Key milestones include:
 
 ---
 
-## 📌 Contributing
-
-We welcome contributions! To get started:
-
-1. Fork this repo
-2. Set up your local `.env` file
-3. Run migrations and seeders
-4. Submit a pull request
-
-Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
----
-
 ## 💬 Connect With Us
 
 - 🌐 [Website](https://centry.africa) _(coming soon)_
