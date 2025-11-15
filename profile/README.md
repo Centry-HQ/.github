@@ -1,74 +1,85 @@
-# 🛡️ Centry – Ghana’s Fraud Intelligence Engine for a Secure Fintech Future  
+# 🛡️ Protegey — Africa’s Protection Layer for Smarter, Safer Digital Platforms
 
-**Centry** is Ghana’s first **fraud intelligence engine**, built to power and secure the country’s digital financial future. By transforming **crowdsourced reports** into **actionable intelligence**, and enriching them with **AI analysis** and **institutional validation**, Centry provides the backbone for detecting, tracking, and preventing fraud at scale.  
+**Protegey** is a next-generation **protection engine** designed to help African businesses, platforms, and institutions stay safer in an increasingly complex digital landscape.  
 
-More than a reporting tool, Centry is a **national fraud intelligence layer** — an engine that feeds fintechs, telecoms, banks, and law enforcement with real-time alerts, risk insights, and fraud trend analysis.  
+What began as a solution to combat **mobile money fraud in Ghana** has evolved into a continent-wide mission:  
+**How do we build a smarter, faster, more reliable protection layer for people and platforms across Africa?**
 
-With Centry, Ghana moves closer to a financial ecosystem that is **secure, resilient, and inclusive**.  
+Protegey transforms **platform-level signals**, **business-generated data**, and aggregated intelligence into **real-time risk insights**, giving companies the tools to detect threats, prevent abuse, and protect their users — before damage happens.
 
----
-
-## 🔍 What is Centry?  
-
-At its core, Centry is an **intelligence engine** that processes fraud data into real-time signals and insights. It works by:  
-
-- 📢 **Crowdsourcing reports** from citizens.  
-- 📊 **Tracking fraud entities** (devices, SIMs, accounts, organizations).  
-- 🚨 **Generating real-time alerts** for individuals, fintechs, and security teams.  
-- 🧠 **Applying AI + rule-based scoring** to detect anomalies and risk patterns.  
-- 🌍 **Mapping hotspots** with heatmaps and analytics dashboards.  
-
-The result: a **fraud intelligence engine** designed to safeguard Ghana’s fintech future.  
+Protegey isn’t a reporting tool. It’s a **protection infrastructure** for Africa’s digital future.  
 
 ---
 
-## 🧠 Powered By  
+## 🔍 What is Protegey?
 
-- ⚡ **Laravel** – Core backend & fraud engine logic  
-- 🎨 **Vue 3 + Inertia** – User dashboards & reporting interfaces  
-- 🌐 **Nuxt 3** – Public-facing knowledge hub  
-- 🗄️ **PostgreSQL** – Structured fraud entity data storage  
-- 🎨 **Tailwind CSS** – Modern, adaptive UI  
-- 🤖 **AI & Rule Engine** – Risk scoring, anomaly detection, fraud insights  
+Protegey is a **platform protection engine** built for fintechs, marketplaces, mobility platforms, e-commerce companies, telcos, and institutions seeking smarter threat detection.
 
----
+At its core, Protegey:
 
-## 🧩 Core Systems  
+- 🧩 **Integrates business data** from partner platforms (transactions, accounts, behavior, devices)  
+- 🛰️ **Aggregates intelligence** across industries and regions  
+- 🚨 **Generates real-time risk signals** businesses can act on instantly  
+- 🧠 **Applies AI + rule-based scoring** to detect fraud, impersonation, anomalies, device risks, and emerging attack patterns  
+- 🌍 **Maps threat zones** across Africa with predictive insights  
 
-- **Centry Core Engine** – Real-time fraud intelligence processing  
-- **Public Portal (Crowdsourced)** – Community-driven reporting entry point  
-- **Agency Dashboard (Institutional)** – Tools for telecoms, banks & law enforcement  
-- **Fraud Entity Graph** – Linking people, devices, accounts, and organizations to fraud  
-- **Analytics & Heatmaps** – Geo-tagged fraud visualization & predictive insights  
+The result: a **unified protection layer** powering safer digital ecosystems.
 
 ---
 
-## 🚧 Development Status  
+## 🧠 Powered By
 
-Centry is **in active development** as a national fraud intelligence engine:  
-
-- ✅ **Core Engine (v1.0)**  
-- ✅ **Crowdsourced Web Reporting**  
-- ⏳ **Agency Dashboards**  
-- ⏳ **Risk Scoring (AI + rules)**  
-- ⏳ **Mobile App (Flutter)**  
-
-**Next milestones:**  
-- 📌 Case collaboration & escalation features  
-- 📌 Expanded fraud entity graph (devices, SIMs, accounts)  
-- 📌 Public fraud knowledge hub & awareness campaigns  
+- ⚡ **Laravel** — Core protection engine & scoring pipelines  
+- 🎨 **Vue 3 + Inertia** — Business dashboards & operational consoles  
+- 🌐 **Nuxt 3** — Public-facing website & knowledge hub  
+- 🗄️ **PostgreSQL** — Entity graph, event streams, and risk storage  
+- 🎨 **Tailwind CSS** — Modern, responsive UI components  
+- 🤖 **AI + Rule Engine** — Threat scoring, anomaly detection & pattern discovery  
 
 ---
 
-## 💬 Connect With Us  
+## 🧩 Core Systems
 
-- 🌐 [Website](https://centry.africa) _(coming soon)_  
-- 📧 hello@centry.africa  
-- 🐦 [Twitter/X](https://twitter.com/centry_africa)  
-- 📱 [Telegram Community](https://t.me/centry_africa)  
+- **Protegey Core Engine** — Real-time protection & intelligence processing  
+- **Business Integration Layer** — API endpoints for partner platforms  
+- **Risk Scoring Engine** — AI + rules for fraud, impersonation, abuse & device risk  
+- **Entity Graph Engine** — Linking accounts, devices, numbers, behaviors & threat patterns  
+- **Analytics + Geo-Risk Maps** — Visualizing threats across Africa  
+- **Operational Dashboards** — Alerts, case management, escalations, and investigations  
 
 ---
 
-## ⚖️ License  
+## 🚧 Development Status
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+Protegey is **in active development** as a continental protection infrastructure.
+
+### Completed
+- ✅ Core Engine (v1.0)
+
+### In Progress
+- ⏳ Partner API Integration Layer  
+- ⏳ Business Dashboards  
+- ⏳ Advanced AI + Rule-Based Risk Scoring  
+- ⏳ Threat Explorer & Geo-Risk Maps
+
+### Upcoming Milestones
+- 📌 Case collaboration between businesses & institutions  
+- 📌 Expanded entity graph (devices, accounts, SIMs, behavioral signals)  
+- 📌 Africa-wide threat taxonomy & intelligence hub  
+- 📌 First closed beta with partner platforms  
+
+---
+
+## 💬 Connect With Us
+
+- 🌐 **Website** — [Protegey Inc](https://www.protegey.com)
+- 🔗 **LinkedIn** — [Protegey Company Page](https://www.linkedin.com/company/protegeyhq/ )  
+- 📧 **Email** — hello@protegey.com  
+- 🐦 **Twitter/X** — [@ProtegeyHQ](https://x.com/ProtegeyHQ) 
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
